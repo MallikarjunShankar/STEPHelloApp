@@ -4,7 +4,7 @@
  * * The application accepts multiple names as command-line arguments and displays 
  * a personalized greeting. It appends a delimiter after every name and then 
  * removes the final one using the substring() method.
- * * @author Reeju Banerjee
+ * * @author Mallikarjun Shankar
  * @version 6.0
  * @since UC1
  */

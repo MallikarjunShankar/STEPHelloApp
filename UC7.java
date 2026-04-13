@@ -1,7 +1,7 @@
 /**
  * UC 7: Display "Hello" with Multiple Command-Line Arguments using String.join() 
  * Method or Default Message.
- * * @author Reeju Banerjee
+ * * @author Mallikarjun Shankar
  * @version 7.0
  * @since UC1
  */

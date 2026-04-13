@@ -11,7 +11,7 @@
  * This application demonstrates fundamental Java concepts such as class
  * declaration, the main method, and standard output.
  *
- * @author Reeju Banerjee
+ * @author Mallikarjun Shankar
  * @version 1.0
  */
 

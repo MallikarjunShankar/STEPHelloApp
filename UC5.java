@@ -2,7 +2,7 @@
  * UC 5: Display "Hello" with Multiple Command-Line Arguments using Enhanced For Loop
  * The application accepts multiple names as command-line arguments and displays 
  * a personalized greeting. If no names are provided, it defaults to "Hello, World!".
- * * @author Reeju Banerjee
+ * * @author Mallikarjun Shankar
  * @version 5.0
  * @since UC1
  */
